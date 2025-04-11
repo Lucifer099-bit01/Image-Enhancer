@@ -5,3 +5,8 @@ RUN THIS BEFORE USING THIS
 - npm i axios // for api handling
 
 ## I am Using PicWish API for this project 
+
+## Tech Stack
+- frontend: React.js
+- Backend: javascript (simple)
+  
